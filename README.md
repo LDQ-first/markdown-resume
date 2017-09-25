@@ -62,7 +62,7 @@ Axios + Redux-thunk&async/await + Webpack
 
 ## Vue全家桶 + Express + MongoDB 开发的简单商城
 
-[Vue全家桶版CNode社区](http://39.108.141.131/vueshop/#/)  
+[Vue全家桶版CNode社区](http://39.108.141.131/vueshop/#/)    
 [源码](https://github.com/LDQ-first/Vue-shop)
 
 
@@ -76,7 +76,7 @@ Axios + Redux-thunk&async/await + Webpack
 
 ## React.js 版的动态响应式简历
 
-[React.js 版的动态响应式简历](https://ldq-first.github.io/react-animating-resume/build/)  
+[React.js 版的动态响应式简历](https://ldq-first.github.io/react-animating-resume/build/)    
 [源码](https://github.com/LDQ-first/react-animating-resume)
 
 
@@ -91,7 +91,7 @@ Axios + Redux-thunk&async/await + Webpack
 
 ## Vue.js 版的动态响应式简历
 
-[Vue.js 版的动态响应式简历](https://ldq-first.github.io/vue-animating-resume/dist/)
+[Vue.js 版的动态响应式简历](https://ldq-first.github.io/vue-animating-resume/dist/)  
 [源码](https://github.com/LDQ-first/vue-animating-resume)
 
 
@@ -104,7 +104,7 @@ Axios + Redux-thunk&async/await + Webpack
 
 ## 使用ES5写的框架井字棋大战
 
-[使用ES5写的框架井字棋大战](http://ldq-first.github.io/frame-Tic-Tac-Toe/)
+[使用ES5写的框架井字棋大战](http://ldq-first.github.io/frame-Tic-Tac-Toe/)  
 [源码](https://github.com/LDQ-first/frame-Tic-Tac-Toe)
 
 技术栈：ES5(原生JS) 
