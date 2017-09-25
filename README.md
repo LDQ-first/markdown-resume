@@ -1,3 +1,8 @@
+
+## 预览
+
+[预览](http://ldq-first.github.io/markdown-resume/)
+
 # 个人简历
 
 # 联系方式
