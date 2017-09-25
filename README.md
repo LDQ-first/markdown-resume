@@ -65,7 +65,7 @@ Axios + Redux-thunk&async/await + Webpack
 
 ## Vue全家桶 + Express + MongoDB 开发的简单商城
 
-[Vue全家桶版CNode社区](http://39.108.141.131/vueshop/#/)    
+[Vue全家桶 + Express + MongoDB 开发的简单商城](http://39.108.141.131/vueshop/#/)    
 [源码](https://github.com/LDQ-first/Vue-shop)
 
 
