@@ -36,7 +36,7 @@
 
 ## React全家桶版开眼
 
-[React全家桶版开眼](http://ldq-first.github.io/react-eyepetizer/dist/)  
+[React全家桶版开眼](http://ldq-first.github.io/react-eyepetizer/dist/#/)  
 [源码](https://github.com/LDQ-first/react-eyepetizer)
 
 技术栈：React全家桶 + Styled-components + Material-ui + Immutable + Reselect + 
@@ -79,7 +79,7 @@ Axios + Redux-thunk&async/await + Webpack
 
 ## React.js 版的动态响应式简历
 
-[React.js 版的动态响应式简历](https://ldq-first.github.io/react-animating-resume/build/)    
+[React.js 版的动态响应式简历](https://ldq-first.github.io/react-animating-resume/build/#/)    
 [源码](https://github.com/LDQ-first/react-animating-resume)
 
 
@@ -94,7 +94,7 @@ Axios + Redux-thunk&async/await + Webpack
 
 ## Vue.js 版的动态响应式简历
 
-[Vue.js 版的动态响应式简历](https://ldq-first.github.io/vue-animating-resume/dist/)  
+[Vue.js 版的动态响应式简历](https://ldq-first.github.io/vue-animating-resume/dist/#/)  
 [源码](https://github.com/LDQ-first/vue-animating-resume)
 
 
