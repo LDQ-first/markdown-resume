@@ -1,7 +1,7 @@
 
 ## 预览
 
-[预览](http://ldq-first.github.io/markdown-resume/)
+[预览](http://ldqblog.me/markdown-resume/)
 
 # 个人简历
 
@@ -27,7 +27,7 @@
 
 
 - Github：[Github](https://github.com/LDQ-first)
-- 博客：[博客](https://ldq-first.github.io/)
+- 博客：[博客](http://ldqblog.me/)
 
 
 ---
@@ -36,7 +36,7 @@
 
 ## React全家桶版开眼
 
-[React全家桶版开眼](http://ldq-first.github.io/react-eyepetizer/dist/#/)  
+[React全家桶版开眼](http://ldqblog.me/react-eyepetizer/dist/#/)  
 [源码](https://github.com/LDQ-first/react-eyepetizer)
 
 技术栈：React全家桶 + Styled-components + Material-ui + Immutable + Reselect + 
@@ -51,7 +51,7 @@ Axios + Redux-thunk&async/await + Webpack
 
 ## Vue全家桶版CNode社区
 
-[Vue全家桶版CNode社区](https://ldq-first.github.io/vue-CNode/dist/#/)  
+[Vue全家桶版CNode社区](http://ldqblog.me/vue-CNode/dist/#/)  
 [源码](https://github.com/LDQ-first/vue-CNode)
 
 
@@ -79,7 +79,7 @@ Axios + Redux-thunk&async/await + Webpack
 
 ## React.js 版的动态响应式简历
 
-[React.js 版的动态响应式简历](https://ldq-first.github.io/react-animating-resume/build/)    
+[React.js 版的动态响应式简历](http://ldqblog.me/react-animating-resume/build/)    
 [源码](https://github.com/LDQ-first/react-animating-resume)
 
 
@@ -94,7 +94,7 @@ Axios + Redux-thunk&async/await + Webpack
 
 ## Vue.js 版的动态响应式简历
 
-[Vue.js 版的动态响应式简历](https://ldq-first.github.io/vue-animating-resume/dist/)  
+[Vue.js 版的动态响应式简历](http://ldqblog.me/vue-animating-resume/dist/)  
 [源码](https://github.com/LDQ-first/vue-animating-resume)
 
 
@@ -107,7 +107,7 @@ Axios + Redux-thunk&async/await + Webpack
 
 ## 使用ES5写的框架井字棋大战
 
-[使用ES5写的框架井字棋大战](http://ldq-first.github.io/frame-Tic-Tac-Toe/)  
+[使用ES5写的框架井字棋大战](http://ldqblog.me/frame-Tic-Tac-Toe/)  
 [源码](https://github.com/LDQ-first/frame-Tic-Tac-Toe)
 
 技术栈：ES5(原生JS) 
@@ -118,7 +118,7 @@ Axios + Redux-thunk&async/await + Webpack
 
 
 
-[更多](https://ldq-first.github.io/work/)
+[更多](http://ldqblog.me/work/)
 
 
 
